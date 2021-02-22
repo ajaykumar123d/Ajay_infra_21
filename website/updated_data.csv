@@ -1,0 +1,6 @@
+Name,Email,Product,Feedback,polarity,subjectivity
+Ajay,ajay@gmail.com,Laptop,Very good,0.9099999999999999,0.7800000000000001
+Surendar,Sure@gmail.com,phone,bad,-0.6999999999999998,0.6666666666666666
+Visva,visva@gmail.com,TV,good,0.7,0.6000000000000001
+Surya,Heysurya7@gmail.com,phone,very good,0.9099999999999999,0.7800000000000001
+ajay,kai@gmmail.com,phone,my phone's performance was too bad,-0.6999999999999998,0.6666666666666666
